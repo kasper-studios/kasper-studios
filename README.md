@@ -26,6 +26,6 @@
 
 - 🌐 Website: https://kasperenok.vercel.app  
 - 🎵 Music: ищи **kasperenok** на стримингах  
-- 💬 Discord: https://discord.gg/gFeWtpEKN9
+- 💬 Discord KasHub: https://discord.gg/gFeWtpEKN9
 
 > Если оно не сломалось — значит, я это ещё не трогал.
