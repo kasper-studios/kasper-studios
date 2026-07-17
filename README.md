@@ -1,31 +1,16 @@
-# 🩸 Kasper Studios
+<div align="center">
 
-**Kasper Studios** — это маленькая техно-секта из одного какуна,  
-которая делает ботов, базы данных и прочий корисний панос.
+# 👋 I'm Kasperenok
 
----
+Building software, automating things and exploring AI.
 
-## 🔧 Что тут вообще происходит
+<br>
 
-- 🧠 **kasperdb** — локальная JSON-based база данных для Python. Простая как тапок, но работает.  
-- 📚 **kasperdb-docs** — документация и примеры, чтобы не ломать голову каждый раз.  
-- 🤖 **Боты и сервисы** — Discord/TG штуки, автоматизация, эксперименты с AI.  
-- 🎮 **Игровые штуки** — скрипты, утилиты и прочий код вокруг Roblox/Minecraft.
+<img src="https://skillicons.dev/icons?i=rust,py,node,lua,arch,git,cloudflare,vscode,neovim" />
 
----
+<br><br>
 
-## 🐍 Технологии
+<a href="https://kasperenok.vercel.app">Website</a> •
+<a href="https://discord.gg/gFeWtpEKN9">Discord</a>
 
-- Python / Node.js / JavaScript  
-- Lua (Roblox), немного всего остального по настроению  
-- Linux, хостинги, самостоятельный DevOps через боль и suffering
-
----
-
-## 📡 Где ещё меня найти
-
-- 🌐 Website: https://kasperenok.vercel.app  
-- 🎵 Music: ищи **kasperenok** на стримингах  
-- 💬 Discord KasHub: https://discord.gg/gFeWtpEKN9
-
-> Если оно не сломалось — значит, я это ещё не трогал.
+</div>
