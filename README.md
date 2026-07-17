@@ -6,7 +6,7 @@ Building software, automating things and exploring AI.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=rust,py,node,lua,arch,git,cloudflare,vscode,neovim" />
+<img src="https://skillicons.dev/icons?i=rust,py,nodejs,lua,arch,git,cloudflare,vscode,neovim" />
 
 <br><br>
 
